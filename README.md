@@ -7,7 +7,7 @@ Full Stack Developer with over 5 years of professional experience in software de
 
 🔹  Languages: C, C++, C#, Python, JavaScript, TypeScript <br>
 🔹  Frameworks & Libraries: React, Vue, Next, Angluar, Node, Nest, Django, ASP.NET <br>
-🔹  Databases: MySQL, MongoDB, PostgreSQL <br>
+🔹  Databases: MySQL, MongoDB, PostgreSQL, MsSQL <br>
 🔹  Tools: Git, AWS, Jira, Docker, Azure <br>
 
 
